@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V5XnD5302dIyGjORTYfmTOZSi2jEepe+5c5jugUObN0=",
+  "Source": "dev-ops-core-api",
+  "BasePath": "_content/dev-ops-core-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
